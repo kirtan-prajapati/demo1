@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Index</title>
+	<title>About</title>
 </head>
 <body>
-<h1>This is a index</h1>
+<p>about us file</p>
 </body>
 </html>
