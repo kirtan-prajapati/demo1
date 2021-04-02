@@ -4,7 +4,7 @@
 	<title>payment dfd</title>
 </head>
 <body>
-	<h1>payments process</h1>
+	<h1>paymendts process</h1>
 payment zyz
 
 
