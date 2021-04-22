@@ -8,6 +8,6 @@
 payment zyz
 
 
-<p>this is test</p>
+<p>this is test <b>paypal</b></p>
 </body>
 </html>
